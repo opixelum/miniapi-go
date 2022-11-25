@@ -1,2 +1,3 @@
-# mini-go-api
+# miniapi-go
+
 School test
