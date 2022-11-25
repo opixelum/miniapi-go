@@ -1,3 +1,3 @@
 # miniapi-go
 
-School test
+School test done by Anto Benedetti
